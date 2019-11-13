@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bb4fb8-1f7b-46eb-81b0-b9316848e797" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hindi_tokenizer" beforeDir="false" afterPath="$PROJECT_DIR$/hindi_tokenizer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hindi_tokenizer/HindiTokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/hindi_tokenizer/HindiTokenizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hindi_tokenizer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyiwn" beforeDir="false" afterPath="$PROJECT_DIR$/pyiwn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyiwn/pyiwn/pyiwn.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyiwn/pyiwn/pyiwn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -249,12 +251,12 @@
       <workItem from="1570568759189" duration="1881000" />
       <workItem from="1570619343714" duration="538000" />
       <workItem from="1571262229579" duration="74000" />
-      <workItem from="1573655832666" duration="325000" />
+      <workItem from="1573655832666" duration="726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25218000" />
+    <option name="totallyTimeSpent" value="25619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="816" extended-state="0" />
@@ -273,7 +275,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.47801417" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.706383" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.38723403" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
