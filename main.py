@@ -1,6 +1,6 @@
-import hindiParaphrasing as hp
+import pandas as pd
 
-FinalDataFrame = hp.pre_process("./TestHindi.xls")
+FinalDataFrame = pd.read_excel("FinaldataFrame1.xlsx")
 from sklearn.preprocessing import LabelEncoder
 for column in FinalDataFrame.columns:
     if FinalDataFrame[column].dtype == type(object):
